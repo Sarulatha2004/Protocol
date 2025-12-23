@@ -48,7 +48,7 @@ initial begin
         r_w=1;
 	#5;
         write_paddr=8'h45;
-        write_data=8'd67;
+        write_data=8'h67;
 
         #30;
 
